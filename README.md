@@ -22,7 +22,8 @@ This is a simple web application for managing your to-do list. You can add tasks
 
 ## Screenshots
 
-![To Do List](https://github.com/arshad1900/To-do-list/assets/116487598/b2956792-9413-4ef1-9aad-cd2d00295a4a)
+![To-Do List](https://github.com/arshad1900/To-do-list/assets/116487598/ebcc888c-50cc-4891-88e2-a5e3a5c6d80d)
+
 
 
 ## License
